@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pais>
+    <nome>Brasil</nome>
+    <idioma>Portugues</idioma>
+    <religiao>cristianismo</religiao>
+    <moeda>real (R$)</moeda>
+    <populacao>220 Milhoes</populacao>
+    <geografia>
+        <clima>Temperado</clima>
+        <costa>7367 km</costa>
+        <pico>Neblina (3014m)</pico>
+    </geografia>
+<presidente>chapolin colorado</presidente></pais>

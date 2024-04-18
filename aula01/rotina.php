@@ -1,3 +1,3 @@
 <?php
 $nome = readline("Insira seu nome: ");
-echo "Seu nome eh {$nome}"; 
+echo "Seu nome é {$nome}";
